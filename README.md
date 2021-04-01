@@ -3,7 +3,7 @@
 This project makes it easy to munge custom lvl files with any name. It does not require a full SWBF2 mod project and makes projects smaller.
 Gametoast thread: http://gametoast.com/viewtopic.php?f=64&t=30995
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![](https://github.com/Gametoast/CustomLVL/blob/main/Preview.jpg?raw=true)
 
 ### How to install
 - copy data_XXX to your BF2_modtools directory
